@@ -1,0 +1,61 @@
+.container{
+    margin: 0 auto;
+    width: 1000px;
+    height: 800px;
+    background: yellow;
+}
+.header{
+    width: 100%;
+    height: 50px;
+    background: red;
+}
+.logo{
+    width: 200px;
+    height: 50px;
+    background: black;
+    float: left;
+}
+.menu{
+	width: 800px;
+    height: 50px;
+    background: red;
+    float: left;
+}
+.banner{
+    width: 100%;
+    height: 300px;
+    background: purple;
+}
+.contentpart{
+    width: 100%;
+    height: 400px;
+    background: blue;
+}
+.part-one{
+    width: 500px;
+    height:150px;
+    background: gray;
+}
+.part-two{
+    width: 500px;
+    height: 300px;
+    background: green;
+    float: left;
+}
+.part-three{
+    width: 500px;
+    height: 150px;
+    background: red;
+}
+.part-four{
+	width: 1000px;
+	height:100px;
+	background:yellow;
+     
+}
+.footer{
+    width: 100%;
+    height: 50px;
+    background: black;
+}
+
